@@ -1,13 +1,42 @@
-# Retrieve the total number of orders placed.
-# Calculate the total revenue generated from pizza sales.
-# Identify the highest-priced pizza.
-# Identify the most common pizza size ordered.
-# List the top 5 most ordered pizza types along with their quantities.
-# Join the necessary tables to find the total quantity of each pizza category ordered.
-# Determine the distribution of orders by hour of the day.
-# Join relevant tables to find the category-wise distribution of pizzas.
-# Group the orders by date and calculate the average number of pizzas ordered per day.
-# Determine the top 3 most ordered pizza types based on revenue.
-# Calculate the percentage contribution of each pizza type to total revenue.
-# Analyze the cumulative revenue generated over time.
-# Determine the top 3 most ordered pizza types based on revenue for each pizza category.
+# Pizza Sales Data - SQL Solved Questions
+
+## Overview
+A SQL-based analysis project solving real-world business questions on Pizza Hut sales data. The project covers order volume, revenue trends, product performance, and time-based ordering patterns — with results compiled into a presentation report.
+
+## Tools Used
+- SQL (MySQL)
+- Joins, Aggregations, Group By
+- Window Functions (Cumulative Revenue)
+- PowerPoint (for report presentation)
+
+## Analysis Tasks Solved
+| Analysis Task | Description |
+|---|---|
+| Total Orders | Retrieve the total number of orders placed |
+| Total Revenue | Calculate the total revenue generated from pizza sales |
+| Highest-Priced Pizza | Identify the highest-priced pizza |
+| Most Common Size | Identify the most common pizza size ordered |
+| Top 5 Pizzas | List the top 5 most ordered pizza types along with quantities |
+| Category Quantities | Join tables to find total quantity ordered per pizza category |
+| Orders by Hour | Determine distribution of orders by hour of the day |
+| Category Distribution | Find category-wise distribution of pizzas ordered |
+| Average Pizzas per Day | Group orders by date and calculate average pizzas ordered per day |
+| Top 3 by Revenue | Determine top 3 most ordered pizza types based on revenue |
+| Revenue Contribution | Calculate % contribution of each pizza type to total revenue |
+| Cumulative Revenue | Analyze cumulative revenue generated over time |
+| Top 3 by Category Revenue | Determine top 3 pizza types by revenue within each category |
+
+## Key Insights
+- Revenue and order volume were analyzed across pizza types, categories, and sizes
+- Peak ordering hours were identified to understand customer demand patterns
+- Top-performing pizzas by both order count and revenue were highlighted
+- Cumulative revenue trends showed consistent growth over the analyzed period
+
+## Files
+- `SQL_Pizzahut_Sales_Solved_Questions` – SQL script with all solved queries
+- `pizza_sales (1).zip` – Raw dataset
+- `Pizza Sales Report Presentation.pdf` – Final presentation summarizing findings
+- `README.md` – Project documentation
+
+## Author
+**Aafra Khan**
