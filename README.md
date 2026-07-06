@@ -35,6 +35,6 @@ A SQL-based analysis project solving real-world business questions on Pizza sale
 ## Files
 - `SQL_Pizzahut_Sales_Solved_Questions` – SQL script with all solved queries
 - `pizza_sales (1).zip` – Raw dataset
-- `Pizza Sales Report Presentation.pdf` – Final presentation summarizing findings
+- `Pizza Sales Report.pdf` – Final presentation summarizing findings
 - `README.md` – Project documentation
 
